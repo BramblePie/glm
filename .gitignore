@@ -61,4 +61,4 @@ build*
 *.swp
 /out
 *.sln
-/.github
+.github/*
